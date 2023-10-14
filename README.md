@@ -28,7 +28,7 @@ To use the application, simply open the `index.html` file in your web browser. E
 
 - The weather data is retrieved using the Rapid API.
 
-Feel free to clone or download the repository to try out the Weather Information Web Application on your local machine.
+- Feel free to clone or download the repository to try out the Weather Information Web Application on your local machine.
 
-For any questions or suggestions, please feel free to reach out.
+- For any questions or suggestions, please feel free to reach out.
 
