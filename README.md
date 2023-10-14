@@ -17,7 +17,15 @@ This is a simple web application that allows users to retrieve real-time weather
 
 ## Usage
 
-To use the application, simply open the `index.html` file in your web browser. Enter the desired city name in the search bar, and the application will display the current weather information for that location.
+To use the application, follow these steps:
+
+- Open the index.html file in your web browser.
+- Sign in to your Rapid API account (or create one if you don't have it already).
+- Search for 'weather-by-api-ninjas' on the Rapid API website.
+- Obtain your unique X-RapidAPI-Key.
+- Paste your X-RapidAPI-Key in the corresponding JavaScript file where the options object is defined.
+- Enter the desired city name in the search bar, and the application will display the current weather information for that location.
+- Make sure to replace YOUR_X-RAPIDAPI-KEY with your actual API key in the JavaScript file.
 
 ## Preview
 
