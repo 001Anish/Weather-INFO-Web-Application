@@ -1,4 +1,4 @@
-# Weather Information Web Application
+# Weather INFO Web Application
 
 This is a responsive web application that allows users to retrieve real-time weather data for any city worldwide. The application is built using HTML, CSS, and JavaScript, and it integrates the Rapid API to fetch weather data.
 
